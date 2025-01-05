@@ -1,0 +1,23 @@
+.counterContainer {
+  text-align: center;
+  margin: 1rem auto;
+  padding: 1rem;
+  background-color: #242424;
+  border-radius: 8px;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+}
+
+.taskText {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 0.5rem 0;
+}
+
+.taskCount {
+  font-weight: bold;
+  color: #4caf50;
+}
